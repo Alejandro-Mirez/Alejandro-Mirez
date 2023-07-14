@@ -15,7 +15,7 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * **management methodologies :** Scrum, Kanban
 * **management tools :** Jira, Trello
 # Learning
-* MySQL
+* MySQL, FastAPI 
 * web development
 * app development
 * automated testing (Selenium)
