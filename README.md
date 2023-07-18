@@ -7,15 +7,15 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * **PRINCE 2 Foundation Certificate in Project Management by PeopleCert** certificate id GR633116133AG (2019)
 * **Testowanie bezpieczeństwa systemów IT by Polsko-Japońska Akademia Technik Komputerowych** - postgraduate studies (2023 - in progress)
 # Tools
-* **programming languages :** Python, JavaScript (ES6), HTML5 and CSS, TypeScript, Java
-* **other :** SQL, React, Bootstrap, JSON, jQuery
+* **programming languages :** Python, JavaScript (ES6), HTML5 and CSS3, TypeScript, Java (basics)
+* **other :** SQL, React, Bootstrap, JSON, jQuery (basics), FastAPI
+* **database :** MySQL
 * **OS :** Windows, Linux
 * **version control :** Git, GitHub, GitLab
 * **IDE :** IntelliJ IDEA
 * **management methodologies :** Scrum, Kanban
 * **management tools :** Jira, Trello
 # Learning
-* MySQL, FastAPI 
 * web development
 * app development
 * automated testing (Selenium)
@@ -31,6 +31,7 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * [strongqa.com](https://strongqa.com/qa-portal/knowledge-base)
 * [jakzostactesterem.pl](https://jakzostactesterem.pl/)
 * [zaprogramujzycie.pl](https://zaprogramujzycie.pl/)
+* [kobietydokodu.pl](https://kobietydokodu.pl/)
 # Where I gain experience in coding
 * doing challenges on [codewars](https://codewars.com) - you can see some of my solutions [here](https://github.com/Alejandro-Mirez/Codewars)
 * working on my [website](https://github.com/Alejandro-Mirez/MyWebpage)
