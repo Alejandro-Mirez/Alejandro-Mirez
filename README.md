@@ -12,7 +12,7 @@ Relatively new in IT world but a very keen learner. Targeting: software testing,
 * **database :** MySQL
 * **OS :** Windows, Linux
 * **version control :** Git, GitHub, GitLab
-* **IDE :** IntelliJ IDEA
+* **IDE :** IntelliJ IDEA, Aqua
 * **management methodologies :** Scrum, Kanban
 * **management tools :** Jira, Trello
 # Learning
