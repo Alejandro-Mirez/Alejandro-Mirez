@@ -2,7 +2,7 @@
 It's not impressive yet, but it surely will be.
 # About me
 Relatively new in IT world but a very keen learner. Targeting: fullstack development / sysadmin. I like doing smart stuff and getting familiar with things I never thought I would understand. Graduated in 2020 with a Master's Degree in law, worked as a probation officer for a while but that just wasn't for me. Tried out testing and coding and it seems to be the right path for my introverted nature. 
-Currently working as Technical Support for B2B Solutions in Samsung R&D, doing a little bit of everything - Proof of Concept / Demo application development, CMS management, software testing, creating technical documentation, conducting technical trainings and solving problems. 
+Currently working as Technical Support for B2B Solutions in Samsung R&D, doing a little bit of everything - Proof of Concept / Demo applications development, CMS management, software testing, creating technical documentation, conducting technical trainings and solving problems. 
 # Courses
 * **Agile Project Management Foundation by APMG International** certificate id 04247987-01-935D (2019)
 * **PRINCE 2 Foundation Certificate in Project Management by PeopleCert** certificate id GR633116133AG (2019)
@@ -11,7 +11,7 @@ Currently working as Technical Support for B2B Solutions in Samsung R&D, doing a
 * **programming languages :** Python, JavaScript (ES6)
 * **other :** HTML5 and CSS3, SQL, React, Bootstrap, JSON, FastAPI
 * **database :** MySQL, PostgreSQL
-* **OS :** Windows, Linux, MacOS
+* **OS :** Windows, Linux, MacOS, Android, Tizen
 * **version control :** Git, GitHub, GitLab
 * **IDE :** IntelliJ IDEA, Aqua
 * **management methodologies :** Scrum, Kanban
